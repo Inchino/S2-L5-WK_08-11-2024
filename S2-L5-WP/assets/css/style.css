@@ -1,0 +1,111 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#bc_img{
+    background-color: #222F3E;
+}
+
+#logo{
+    width: 8%;
+    margin: 0.5em 0 0.5em 1vw;
+}
+
+.barretta{
+    background-color: #364759;
+    padding: 0.2em 0 0.2em;
+}
+
+p{
+    display: inline;
+    margin: 0.3em 0 0.3em 1vw;
+    font-size: 0.8rem;
+    color: #EAEDED;
+
+}
+
+main{
+    background-color: #EAEDED;
+    padding: 2%;
+}
+
+#orange{
+    background-color: #F56600;
+    text-align: center;
+    margin-bottom: 2vw;
+}
+
+#bianco{
+    color: white;
+}
+
+#banner{
+    background-image: url(/Settimana_2/S2-L5-WP/assets/img/bg-image.png);
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-size: contain;
+    background-position: top;
+    align-content: center;
+    text-align: center;  
+}
+
+#banner_h{
+    padding: 1.2vw;
+    color: #EAEDED;
+}
+
+#section1{
+    background-color: white;
+    margin-bottom: 2%;
+}
+
+h3, h5{
+    display: inline-block;
+    margin: 1em;
+}
+
+h5{
+    color: #007185;
+}
+
+#box{
+    text-align: center;
+    width: 100%;
+}
+
+.box_img{
+    display: inline-block;
+    width: 20%;
+    margin: 1%;
+}
+
+.img1{
+    border-radius: 10%;
+    box-shadow: 10px 10px 5px #dedede;
+    height: 300px;
+}
+
+img{
+    width: 100%;
+}
+
+.descr{
+    text-align: center; 
+    margin-top: 0;
+}
+
+footer{
+    text-align: center;
+}
+
+#logo2{
+    width: 10%;
+    padding: 3%;
+}
+
+a{
+    color: white;
+}
